@@ -1,0 +1,26 @@
+* {
+
+  }
+
+  .curriculo {
+    background-color:	#cce6ff;
+
+    width: 800px;
+    margin: 0 auto;
+  }
+
+  .nome{
+    float: left;
+  }
+
+  .info{
+    float: right;
+  }
+
+  .nulo{
+    clear: both;
+  }
+
+.corpo{
+  background-color: white;
+}
