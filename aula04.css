@@ -3,24 +3,22 @@ html, body, .menu, .cabecalho, .conteudo, .rodape{
   margin: 0;
 }
 body {
-  background-color: #ff00ff;
-  color: #ffffff;
+  background-color: #99ccff;
 }
 
 .menu{
-  background-color: #ffff00;
-  /* color altera a cor da lonte */
-  color: #ffffff;
+  background-color: #0d69f2;
+  /* color altera a cor da fonte */
+  color: #ec1313;
 }
 
-.cabecalho{
-  background-color: #00ffff;
-}
 
 .conteudo{
   border-style: solid;
   border-width: 10px;
-  border-color: #ff0000;
+  border-color: #ccf7a1;
+  background-color: #20df20;
+
   /* margem interna pode ser alterada utilizando o */
   padding: 10px;
 }
@@ -29,12 +27,4 @@ body {
 #rodapePrincipal{
   text-align: right;
 
-}
-
-.rodape{
-  background-color: #00ff00;
-}
-
-.FONT{
-  font-size: 142px;
 }
