@@ -1,0 +1,31 @@
+* {
+
+  }
+
+  .curriculo {
+    font-family: 'Germania One', cursive;
+    border-style: double;
+    background-color:	#cce6ff;
+    text-align: justify;
+    width: 800px;
+    margin: 0 auto;
+  }
+
+
+  .nome h1{
+    font-weight: normal;
+    float: left;
+    margin-left: 30px;
+  }
+
+  .info{
+    float: right;
+  }
+
+  .nulo{
+    clear: both;
+  }
+
+.corpo{
+  background-color: white;
+}
